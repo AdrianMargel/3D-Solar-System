@@ -1,4 +1,4 @@
-# 3D-Solar-System
+# 3D Solar System
 A simple 3d simulation of the formation of a solar system
 
 ![solar system](https://i.imgur.com/j5q0JwB.png)
